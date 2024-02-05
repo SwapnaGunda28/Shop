@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "id": "ORD-000001-MICROSERVICE",
+      "date": "7/01/2019",
+      "cost": 43188,
+      "items": ["OLJCESPC7Z"]
+    },
+    {
+      "id": "ORD-000002-MICROSERVICE",
+      "date": "7/24/2019",
+      "cost": 33990,
+      "items": ["1YMWWN1N4O"]
+    },
+    {
+      "id": "ORD-000003-MICROSERVICE",
+      "date": "8/03/2019",
+      "cost": 51990,
+      "items": ["66VCHSJNUP"]
+    },
+    {
+      "id": "ORD-000004-MICROSERVICE",
+      "date": "8/14/2019",
+      "cost": 199980,
+      "items": ["0PUK6V6EV0", "LS4PSXUNUM"]
+    },
+    {
+      "id": "ORD-000005-MICROSERVICE",
+      "date": "8/29/2019",
+      "cost": 57551,
+      "items": ["6E92ZMYYFZ"]
+    }
+  ]
+}

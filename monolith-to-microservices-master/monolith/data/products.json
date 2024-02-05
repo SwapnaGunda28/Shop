@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": "OLJCESPC7Z",
+            "name": "HP 250 G9",
+            "description": "12th Generation Intel® Core™ i3 processor.",
+            "picture": "static/img/products/HP1.png",
+            "cost": 43188,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "66VCHSJNUP",
+            "name": "Dell 15 Laptop",
+            "description": "Intel Core i5-1135G7 Processor/16GB DDR4/512GB SSD/Intel UHD Graphic/15.6",
+            "picture": "static/img/products/Dell.png",
+            "cost": 51990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "1YMWWN1N4O",
+            "name": "Lenovo IdeaPad 1",
+            "description": "AMD Ryzen 3 7320U 15.6",
+            "picture": "static/img/products/Lenovo.png",
+            "cost": 33990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "L9ECAV7KIM",
+            "name": "ASUS VivoBook 15",
+            "description": "Dual Core Intel Celeron N4020",
+            "picture": "static/img/products/ASUS.png",
+            "cost": 19990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "2ZYFJ3GM2N",
+            "name": "Acer Travelmate Business Laptop AMD ",
+            "description": "Ryzen 5 5500U Processor",
+            "picture": "static/img/products/Acer.png",
+            "cost": 34990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "0PUK6V6EV0",
+            "name": "Apple MacBook Air Laptop",
+            "description": "M1 chip, 13.3-inch/33.74 cm",
+            "picture": "static/img/products/Apple.png",
+            "cost": 150990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "LS4PSXUNUM",
+            "description": "12th Gen Intel Core i5-12450H",
+            "name": "HONOR MagicBook X16",
+            "picture": "static/img/products/Honor.png",
+            "cost": 48990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "9SIQT8TOJO",
+            "name": "JioBook 11 ",
+            "description": "Mediatek 8788 Octa-core 2 GHz/ARM Mali G72 MP3 ",
+            "picture": "static/img/products/Jio.png",
+            "cost": 14990,
+            "categories": ["Laptop"]
+        },
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "MSI GF63 Gaming Laptop",
+            "description": "Intel 11th Gen. i5-11260H, 40CM FHD 144Hz.",
+            "picture": "static/img/products/MSI.png",
+            "cost": 57551,
+            "categories": ["Laptop"]
+        }
+    ]
+}
